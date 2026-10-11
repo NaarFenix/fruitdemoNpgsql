@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljdM1nPJbQk=",
+  "success": true,
+  "projectFilePath": "/home/hamza/Desktop/ngpsql/fruitdemo/1.csproj",
+  "expectedPackageFiles": [
+    "/home/hamza/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
